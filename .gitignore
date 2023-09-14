@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+./SadTalker/1/cache/*
+./SadTalker/1/onnx_weights/generator.onnx
+./SadTalker/1/onnx_weights/kp_detector.onnx
