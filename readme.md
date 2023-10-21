@@ -28,5 +28,5 @@
 ## Reminder
 1. generator.onnx and kp_detector.onnx you must do it by yourself,it's big and some licence.
 
-## galary
+## Galary
 ![example](./example.gif)
