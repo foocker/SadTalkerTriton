@@ -15,7 +15,7 @@
 4. in client container: `python client.py `
 
 ## I did
-1. Export all submodel to onnx and runtime with onnx_privder_trtfp16
+1. Export all submodel to onnx and runtime with onnx_privider_trtfp16
 2. Removed the facexlib and replace the face detection module for simple and fast
 3. Clean the repeate functions in the pipeline
 4. Extract useful model weights and structure codes
