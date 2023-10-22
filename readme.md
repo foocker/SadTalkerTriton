@@ -20,6 +20,7 @@
 3. Clean the repeate functions in the pipeline
 4. Extract useful model weights and structure codes
 5. Removed unnecessary features
+6. Optimized Generator inference time during face render (time(onnx_privider_trtfp16)/2) and mutilprocess Poisson fusion.
 ## You can do
 1. Dynamic batching
 2. More efficient organization compliant with triton
