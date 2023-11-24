@@ -7,6 +7,7 @@
 
 ## Using 
 [百度网盘链接](https://pan.baidu.com/s/1ZgFRmuwVJi26umSVN5BzmQ?pwd=gogs) 提取码: gogs
+[drive.google](https://drive.google.com/file/d/1wgqRB-SDdjkliVke3WtvC5gL82tbWr-r/view?usp=drive_link)
 
 0. `download weights.zip and unzip weights.zip in onnx_weights and add generator.onnx and kp_detector.onnx `
 1. `cd SadTalkerTriton`
